@@ -8,7 +8,6 @@ Input Text
     [Documentation]    Input Text
     Open
 
-
 *** Keywords ***
 Open
     [Documentation]    Input Text
